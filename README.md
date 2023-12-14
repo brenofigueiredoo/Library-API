@@ -2,7 +2,7 @@
 
 A Library-API oferece funcionalidades para criar e autenticar usuários, adicionar livros, emprestar/devolver livros e listar os livros lidos e aqueles em posse do usuário. Simplificando o gerenciamento eficiente de uma biblioteca online, proporciona uma experiência completa aos usuários.
 
-***➡ Documentação da API***: [Clique aqui]() e acesse a documentação da API.
+***➡ Documentação da API***: [Clique aqui](#documentation) e acesse a documentação da API.
 
 ***➡ Diagrama ER***: [Clique aqui](https://github.com/brenofigueiredoo/Library-API/blob/main/diagram.png) e acesse o diagrama do Projeto.
 
@@ -46,7 +46,7 @@ yarn run start:prod
 
 &nbsp;
 
-## <a name="pookie"></a> Documentação 📖
+## <a name="documentation"></a> Documentação 📖
 ### 1 - Users
 #### 1.1 - Criar Usuário
 - Endpoint: `POST /users`
