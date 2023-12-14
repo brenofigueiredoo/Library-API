@@ -36,8 +36,6 @@ yarn run start:dev
 yarn run start:prod
 ```
 
-## This is an H2
-
 ## Ferramentas utilizadas 🛠 
 - NestJs <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
 - TypeScript <img align="center" alt="django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
@@ -47,7 +45,7 @@ yarn run start:prod
 - VsCode <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 &nbsp;
-[link to my anchored heading](#my-anchor)
+
 ## <a name="pookie"></a> Documentação 📖
 ### 1 - Users
 #### 1.1 - Criar Usuário
