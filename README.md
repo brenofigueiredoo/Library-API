@@ -37,7 +37,7 @@ yarn run start:prod
 ```
 
 ## Ferramentas utilizadas 🛠 
-- NestJs <img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+- NestJs <img align="center" alt="nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
 - TypeScript <img align="center" alt="typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 - PostgreSQL <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 - Insomnia <img align="center" alt="insomnia" height="30" width="40" src="https://www.svgrepo.com/show/353904/insomnia.svg">
